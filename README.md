@@ -1,6 +1,8 @@
 # Configuration Scan  
 
-Library to read configuration in follow manner:  
+![cover](./cover.png)
+
+Scan for Configuration in very opinionated manner:  
 
 ```
 parent-folder
